@@ -1,0 +1,11 @@
+rr2.admin:
+  title: 'Rellenar/Actualizar Curriculum'
+  class: Drupal\rr2\Plugin\Menu\UserProfile
+  description: 'Rellena o actualiza tu curriculum en Cangurin'
+  menu_name: 'main'
+  route_name:  profile.user_page.single 
+  cache_contexts:
+    - user.roles: he_leido_las_condiciones_de_uso
+  weight: 100
+  
+ 

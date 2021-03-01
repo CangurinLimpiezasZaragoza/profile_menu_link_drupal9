@@ -1,0 +1,7 @@
+name: rr2
+description: Rellenar/Actualizar Curriculumo en el main".
+package: Custom
+type: module
+version: 1.0
+core: 8.x
+core_version_requirement: ^8 || ^9
