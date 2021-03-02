@@ -13,6 +13,9 @@ Tested 02-03-2021 in this site correctly https://www.cangurin.com/servicios/limp
 
 Code support for Cangurin limpiezas https://www.cangurin.com 
 
+
+if you need support write at  servicios@cangurin.com with the subject "support for drupal 9"
+
 ---------------------------------------------------------------------------------------------
 
 Modulo para crear programacticamente un link hacia el menu de perfil ( perfil del modulo https://www.drupal.org/project/profile) en el menu de navegacion main en Drupal 9
@@ -24,4 +27,6 @@ Descarga el mudulo, instalalo y un link aparecera en el menu.
 Testeado el  02-03-2021 en este sitio https://www.cangurin.com/servicios/limpiezas-zaragoza.html
 
 Codigo donado a la comunidad por Cangurin limpiezas https://www.cangurin.com 
+
+Si necesitas ayuda con el mudlo escribe a  servicios@cangurin.com con el asunto "soporte drupal 9"
  
