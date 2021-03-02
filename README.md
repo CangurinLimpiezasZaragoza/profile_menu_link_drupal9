@@ -24,4 +24,4 @@ Descarga el mudulo, instalalo y un link aparecera en el menu.
 Testeado el  02-03-2021 en este sitio https://www.cangurin.com/servicios/limpiezas-zaragoza.html
 
 Codigo donado a la comunidad por Cangurin limpiezas https://www.cangurin.com 
-Example of profile (module profile user/35238/main) menu link in drupal 9 https://www.cangurin.com/servicios/limpiezas-zaragoza.html 
+ 
