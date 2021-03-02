@@ -28,5 +28,5 @@ Testeado el  02-03-2021 en este sitio https://www.cangurin.com/servicios/limpiez
 
 Codigo donado a la comunidad por Cangurin limpiezas https://www.cangurin.com 
 
-Si necesitas ayuda con el mudlo escribe a  servicios@cangurin.com con el asunto "soporte drupal 9"
+Si necesitas ayuda con el modulo escribe a  servicios@cangurin.com con el asunto "soporte drupal 9"
  
